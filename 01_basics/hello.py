@@ -1,1 +1,3 @@
-print("Hello Ashish!")
+from hello_ashish import world
+
+world()
